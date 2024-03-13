@@ -34,6 +34,9 @@ The recent-grads.csv dataset contains job outcomes of college graduates from 201
 
 ## Conclusion & Insights
 
+![Project Logo](cm2.png)
+
+
 ### Key Findings:
 
 1. Popular majors don't necessarily equate to higher salaries.
