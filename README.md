@@ -34,7 +34,7 @@ The recent-grads.csv dataset contains job outcomes of college graduates from 201
 
 ## Conclusion & Insights
 
-![Scatter Plot representing various distributions](Images_cm/cm1.png)
+![Distribution of Shared Woemn VS Median](Images_cm/cm1.png)
 ![Distribution of Shared Woemn VS Median](Images_cm/cm2.png)
 ![Distribution of Shared Woemn VS Median](Images_cm/cm3.png)
 ![Distribution of Shared Woemn VS Median](Images_cm/cm4.png)
