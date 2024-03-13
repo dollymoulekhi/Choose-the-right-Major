@@ -56,4 +56,4 @@ For more details and visualizations, please refer to the project's code and outp
 
 **Date of Analysis:** 30th August 2020  
 **Project Author:** Dolly Moulekhi  
-**Project Repository:** [https://github.com/dollymoulekhi/Choose-the-right-Major/blob/main/Predict_the_right_major.ipynb)https://github.com/dollymoulekhi/Choose-the-right-Major/blob/main/Predict_the_right_major.ipynb]
+**Project Repository:** https://github.com/dollymoulekhi/Choose-the-right-Major/blob/main/Predict_the_right_major.ipynb)https://github.com/dollymoulekhi/Choose-the-right-Major/blob/main/Predict_the_right_major.ipynb
